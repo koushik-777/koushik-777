@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Koushik!
 
-<!--
-**koushik-777/koushik-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Engineer | Python & ML Enthusiast | Cloud + AI Explorer**
 
-Here are some ideas to get you started:
+I’m passionate about building data-driven systems and intelligent applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me
+-  Currently exploring **Machine Learning**, **MLOps**, and **Full-Stack Development**
+-  Working on projects using **Python**, **PyTorch**, and **Cloud Functions (GCP)**
+-  Interested in **AI-based automation**
+-  Always learning: *Software Architecture, Systems Design, and Advanced ML*
+
+---
+
+## 🧰 Tech Stack
+**Languages:** Python, JavaScript, Java, SQL  
+**Frameworks:** TensorFlow, PyTorch, Flask, FastAPI  
+**Cloud & DevOps:** GCP, Docker, AWS  
+**Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn  
+**Tools:** Git, VS Code, GitHub, Jupyter, Eclipse
+
+---
+
+
+## 📊 GitHub Stats
+![Koushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koushik-777&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-777&layout=compact&theme=tokyonight)
+
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-m-14202b320/)
+
