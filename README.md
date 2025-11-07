@@ -1,7 +1,5 @@
 # Hi, I'm Koushik!
 
-**Aspiring Software Engineer | Python & ML Enthusiast | Cloud + AI Explorer**
-
 I’m passionate about building data-driven systems and intelligent applications.
 ---
 ##  About Me
