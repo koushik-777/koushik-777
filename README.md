@@ -15,7 +15,7 @@ I’m passionate about building data-driven systems and intelligent applications
 ---
 ## 📊 GitHub Stats
 ![Koushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koushik-777&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-777&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-777&layout=compact&theme=tokyonight) 
 
 ---
 ## 🌐 Connect with Me
